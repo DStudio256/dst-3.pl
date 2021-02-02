@@ -1,3 +1,3 @@
 function reveal() {
-  document.getElementById("hidden").style.display = 'block';
+  document.getElementById("hidden").style.visibility = 'visible';
 }
